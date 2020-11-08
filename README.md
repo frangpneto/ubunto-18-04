@@ -1,15 +1,7 @@
 # Curso GRÁTIS de GNU/Linux Ubuntu Server 18.04.x LTS DevOps
 
-## 💰 Ajude o projeto Bora para Prática a continuar fazendo vídeos gratuitos para o Canal, acessando o link de doação do PagSeguro: https://pag.ae/bjlSJcH
-
 Francisco Neto<br>
-Procedimentos em TI: http://procedimentosemti.com.br<br>
-Bora para Prática: http://boraparapratica.com.br<br>
-Francisco Neto: http://vaamonde.com.br<br>
-Facebook Procedimentos em TI: https://www.facebook.com/ProcedimentosEmTi<br>
-Facebook Bora para Prática: https://www.facebook.com/boraparapratica<br>
-Instagram Procedimentos em TI: https://www.instagram.com/procedimentoem<br>
-YouTUBE Bora Para Prática: https://www.youtube.com/boraparapratica<br>
+YouTUBE : https://www.youtube.com/c/FranciscoGPNeto<br>
 
 Esse curso tem como objetivo de mostrar a instalação e configuração da nova versão de Servidor da Canonical o GNU/Linux Ubuntu Server 18.04.x, essa nova versão foi projetada para uma fácil implementação, administração e configuração dos serviços de rede de forma fácil e confiável.
 
@@ -27,14 +19,12 @@ pfSense: https://www.pfsense.org/<br>
 Microsoft Windows:  https://www.microsoft.com/pt-br/windows<br>
 Oracle VirtualBOX: https://www.virtualbox.org/
 
-## **Playlist do YouTUBE com todos os Vídeos do GNU/Linux Ubuntu Server 18.04.x LTS DevOps:**
-Link da Playlist: https://www.youtube.com/playlist?list=PLozhsZB1lLUOjGzjGO4snI34V0zINevDm
 
 ## **APRESENTAÇÃO do CURSO de GNU/Linux Ubuntu Server 18.04.x LTS DevOps**
 
 DevOps Github APRESENTAÇÃO do CURSO de GNU/Linux Ubuntu Server 18.04.x LTS, vídeo mostrando os detalhes do curso e informações extras.
 
-Link da vídeo aula: https://www.youtube.com/watch?v=qvUVWUz1MmY
+Link da vídeo aula (Autor: Bora Praticar): https://www.youtube.com/watch?v=qvUVWUz1MmY
 
 ## **APRESENTAÇÃO do CENÁRIO do Curso de GNU/Linux Ubuntu Server 18.04.x LTS**
 
